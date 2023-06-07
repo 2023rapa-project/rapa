@@ -21,6 +21,6 @@ Node-RED는 하드웨어 장치, API 및 온라인 서비스를 서로 쉽게 �
 ![image](https://github.com/2023rapa-project/rapa/assets/132196804/444923cb-db94-4eac-a61b-0d3ea322be90)
 
 
-# 영상
+# 5. 영상
 https://youtu.be/HpI33QaASJ0
 
